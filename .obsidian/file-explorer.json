@@ -1,0 +1,15 @@
+{
+  "folders": [
+    { "path": "00-收件箱" },
+    { "path": "01-行业研究" },
+    { "path": "02-公司档案" },
+    { "path": "03-客户项目" },
+    { "path": "04-方法论" },
+    { "path": "05-日报周报" },
+    { "path": "99-模板" }
+  ],
+  "settings": {
+    "sortOrder": "alphabetical",
+    "showFolderCount": true
+  }
+}
