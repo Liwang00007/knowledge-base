@@ -3,5 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "00-收件箱",
   "attachmentFolderPath": "99-附件",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "communityPluginSortOrder": "download"
 }
