@@ -1,0 +1,74 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:00-收件箱",
+      "color": {
+        "a": 1,
+        "rgb": 16739179
+      }
+    },
+    {
+      "query": "path:01-行业研究",
+      "color": {
+        "a": 1,
+        "rgb": 5164484
+      }
+    },
+    {
+      "query": "path:02-公司档案",
+      "color": {
+        "a": 1,
+        "rgb": 4569041
+      }
+    },
+    {
+      "query": "path:03-客户项目",
+      "color": {
+        "a": 1,
+        "rgb": 16767548
+      }
+    },
+    {
+      "query": "path:04-方法论",
+      "color": {
+        "a": 1,
+        "rgb": 10980346
+      }
+    },
+    {
+      "query": "path:05-日报周报",
+      "color": {
+        "a": 1,
+        "rgb": 9741240
+      }
+    },
+    {
+      "query": "path:06-SOP",
+      "color": {
+        "a": 1,
+        "rgb": 16020150
+      }
+    },
+    {
+      "query": "path:99-模板",
+      "color": {
+        "a": 1,
+        "rgb": 13358561
+      }
+    }
+  ],
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.0000000000000009,
+  "close": true
+}
